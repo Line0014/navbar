@@ -44,3 +44,18 @@ body {
 .mainnav__link:hover {
   color: var(--accent);
 }
+
+.navbar__toggle {
+  display: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+footer {
+  background-color: var(--bg);
+  color: var(--text);
+  padding: 1rem;
+  text-align: center;
+}
