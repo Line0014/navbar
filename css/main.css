@@ -6,3 +6,17 @@
   --accent: #36bf7f;
   --time: 0.3s;
 }
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: var(--bg);
+  color: var(--text);
+}
