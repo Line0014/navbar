@@ -1,14 +1,14 @@
 @import url(./normalize.css);
 
 :root {
-  --bg: #2c3e50;
+  --bg: #cc0707;
   --text: #ffffff;
-  --accent: #36bf7f;
+  --accent: #010805;
   --time: 0.3s;
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
 }
 
