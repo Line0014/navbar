@@ -20,3 +20,27 @@ body {
   background-color: var(--bg);
   color: var(--text);
 }
+
+.masthead__link {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.masthead__link h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.mainnav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.mainnav__link {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.mainnav__link:hover {
+  color: var(--accent);
+}
